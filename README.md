@@ -5,7 +5,6 @@
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" width="100" alt="Python Logo">
 </p>
 
-<h1 align="center">Hi, I'm Dharmik Gadhiya 👋</h1>
 <h3 align="center">Python Developer | AI & Backend Engineer | Cloud Enthusiast</h3>
 
 ---
