@@ -1,8 +1,3 @@
-# Hi I'm Dharmik Gadhiya 👋
-
-<p align="center">
-  <img src="https://cdn-icons-png.flaticon.com/512/2103/2103832.png" width="100" alt="AI Logo">
-</p>
 
 <h1 align="center">Hi, I'm Dharmik Gadhiya 👋</h1>
 <h3 align="center"> Python Developer | AI & Backend Engineer | Cloud Enthusiast </h3>
