@@ -1,11 +1,13 @@
-## Hi I'm Dharmik Gadhiya 👋
+# Hi I'm Dharmik Gadhiya 👋
 
-<!-- Profile Header -->
 <p align="center">
-  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" width="100" alt="Python Logo">
+  <img src="https://cdn-icons-png.flaticon.com/512/2103/2103832.png" width="100" alt="AI Logo">
 </p>
 
-<h3 align="center">Python Developer | AI & Backend Engineer | Cloud Enthusiast</h3>
+<h1 align="center">Hi, I'm Dharmik Gadhiya 👋</h1>
+<h3 align="center"> Python Developer | AI & Backend Engineer | Cloud Enthusiast </h3>
+
+---
 
 ---
 
