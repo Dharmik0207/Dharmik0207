@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi I'm Dharmik Gadhiya 👋
 
 <!-- Profile Header -->
 <p align="center">
