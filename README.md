@@ -4,8 +4,6 @@
 
 ---
 
----
-
 ## 🔭 Current Focus & Projects
 
 - 💳 **Credit Card Fraud Detection:** Building ML models using Python, Pandas, and Scikit-learn to detect fraudulent transactions in real time.  
