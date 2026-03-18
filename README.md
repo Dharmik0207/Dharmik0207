@@ -4,6 +4,15 @@
 
 ---
 
+## 🚀 About Me
+
+I am a Master’s student in Computer Science with a strong interest in **data engineering, analytics, and real-time data processing**. I enjoy working with data to build reliable pipelines and extract meaningful insights that support better decisions.
+
+In my previous experience, I have worked with **Python, SQL, and backend systems** to process large datasets, optimize performance, and automate workflows. I am particularly interested in **designing and improving data pipelines**, handling complex data problems, and ensuring data quality and scalability.
+
+---
+
+
 ## 🔭 Current Focus & Projects
 
 - 💳 **Credit Card Fraud Detection:** Building ML models using Python, Pandas, and Scikit-learn to detect fraudulent transactions in real time.  
@@ -18,10 +27,11 @@
 
 **Programming Languages:** Python, JavaScript, HTML5, CSS3, SQL, Bash, R  
 **Frameworks:** Django, Flask, FastAPI, React.js, Scikit-learn  
-**Tools:** Git, Docker, Pandas, Jupyter Notebook  
+**Tools:** Git, Docker, Pandas, Jupyter Notebook
+**Concepts:** ETL Processes, Data Pipelines, Data Quality, Automation
 **Platforms:** AWS, Azure, Databricks, GCP  
 **Soft Skills:** Stakeholder Management, Team Collaboration, Communication  
-**Languages:** English (C1), German (B1)
+**Languages:** English (C1), German (B2 – in progress)
 
 ---
 
@@ -41,6 +51,18 @@
 - Integrated intelligent automation for smarter email management.  
 
 🧰 **Tech Stack:** JavaScript, TypeScript, Yarn, Git  
+
+---
+
+### 📊 ElectionScrapper – Data Pipeline & Analysis
+- Developed a pipeline for data extraction, cleaning, and analysis  
+- Processed and structured raw data for further insights and visualization  
+
+---
+
+### 🤖 SkillSync – AI-based Data Processing System
+- Built a system to analyze structured data (CVs) and generate insights using AI  
+- Focused on data transformation and efficient processing workflows  
 
 ---
 
