@@ -25,13 +25,13 @@ In my previous experience, I have worked with **Python, SQL, and backend systems
 
 ## 💡 Skills & Technologies
 
-**Programming Languages:** Python, JavaScript, HTML5, CSS3, SQL, Bash, R  
-**Frameworks:** Django, Flask, FastAPI, React.js, Scikit-learn  
-**Tools:** Git, Docker, Pandas, Jupyter Notebook
-**Concepts:** ETL Processes, Data Pipelines, Data Quality, Automation
-**Platforms:** AWS, Azure, Databricks, GCP  
-**Soft Skills:** Stakeholder Management, Team Collaboration, Communication  
-**Languages:** English (C1), German (B2 – in progress)
+- **Programming Languages:** Python, JavaScript, HTML5, CSS3, SQL, Bash, R  
+- **Frameworks:** Django, Flask, FastAPI, React.js, Scikit-learn  
+- **Tools:** Git, Docker, Pandas, Jupyter Notebook
+- **Concepts:** ETL Processes, Data Pipelines, Data Quality, Automation
+- **Platforms:** AWS, Azure, Databricks, GCP  
+- **Soft Skills:** Stakeholder Management, Team Collaboration, Communication  
+- **Languages:** English (C1), German (B2 – in progress)
 
 ---
 
